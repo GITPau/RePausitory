@@ -1,5 +1,3 @@
-Amaysim Technical Test
-
 -Download file from GitHub and unzip. Copy to corresponding directory where you can open from IDE
 
 -Have yet to try having different config files on the version 10 onwards of cypress.
@@ -13,6 +11,5 @@ But with regards to using different URL, we can update the baseUrl on the cypres
 
     "npx cypress open --e2e --browser chrome",
     "npx cypress open",
-    "cypress run -b chrome -s 'cypress/e2e/features/refer.feature'"
 
--Refer to word doc files for more detailed steps
+-Refer to word doc files for more detailed steps.
