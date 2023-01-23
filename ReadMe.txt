@@ -9,8 +9,8 @@ But with regards to using different URL, we can update the baseUrl on the cypres
 
 -Use the following command for execution visa dashboard or terminal
 
-    "npx cypress open --e2e --browser chrome",
-    "npx cypress open",
+    "npx cypress open --e2e --browser chrome", "npx cypress open", (dashboard)
+    "cypress run -b chrome -s 'cypress/e2e/features/(name of feature file to run).feature'" (terminal)
 
 -Refer to word doc files for more detailed steps.
 
