@@ -13,3 +13,6 @@ But with regards to using different URL, we can update the baseUrl on the cypres
     "npx cypress open",
 
 -Refer to word doc files for more detailed steps.
+
+    "IDE Setup",
+    "From Scratch - Latest"
