@@ -18,6 +18,8 @@ But with regards to using different URL, we can update the baseUrl on the cypres
         
     "cypress run -b chrome -s 'cypress/e2e/features/(name of feature file to run).feature'" (terminal)
 
+-Setup Jenkins (optional)
+
 -Refer to word doc files for more detailed steps.
 
     "IDE Setup",
