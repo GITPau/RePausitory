@@ -21,4 +21,5 @@ But with regards to using different URL, we can update the baseUrl on the cypres
 -Refer to word doc files for more detailed steps.
 
     "IDE Setup",
-    "From Scratch - Latest"
+    "From Scratch - Latest",
+    "Jenkins Setup"
